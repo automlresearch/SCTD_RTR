@@ -2,7 +2,7 @@
 The first sonar image dataset used for multi-categorical rotated target recognition.
 
 
-Data for "Rotated Target Recognition of Sonar Images via Convolutional Neural Networks with Rotated Inputs", which has been submited to GRSL.
+Data for "Rotated Target Recognition of Sonar Images via Convolutional Neural Networks with Rotated Inputs", which has been submited to ICDIP2022.
 
 Data will be available as soon as the paper is accepted.
 
